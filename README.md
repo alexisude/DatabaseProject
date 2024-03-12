@@ -15,6 +15,7 @@ This project interacts with a PostgreSQL database containing student information
 
 3. **Compile and Run the Application:**
    - Save the provided Python script (dbInteraction.py) in your preferred directory.
+   - change the connection parameters to the parmaeters of your postgres server (user and password)
    - Open a terminal or command prompt and navigate to the directory containing dbInteraction.py.
    - Run the script using Python python dbInteraction.py
 
