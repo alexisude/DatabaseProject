@@ -2,6 +2,8 @@
 
 This project interacts with a PostgreSQL database containing student information. You can perform CRUD operations such as retrieving all students, creating a new student, updating a student's email, and deleting a student.
 
+# Video Link: https://www.youtube.com/watch?v=aIphZbd9GGA
+
 # Steps to Run the Project:
 1. **Install Required Dependencies:**
    - Make sure you have Python installed on your system.
